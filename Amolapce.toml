@@ -1,0 +1,147 @@
+[theme]
+name = "Amolapce"
+
+[ui]
+drop-shadow-width = 0
+
+[theme.base]
+white = "#FFFFFF"
+black = "#000000"
+grey = "#5e5e5e"
+blue = "#050A30"
+red = "#b81800"
+yellow = "#E5C07B"
+orange = "#d99a00"
+green = "#98C379"
+purple = "#C678DD"
+cyan = "#56B6C2"
+magenta = "#2E8BC0"
+
+[theme.syntax]
+"attribute" = "$green"
+"builtinType" = "$cyan"
+"character" = "$purple"
+"comment" = "$grey"
+"conditional" = "$blue"
+"constructor" = "#4fc1ff"
+"embedded" = "$cyan"
+"enum" = "#4ec9b0"
+"enum-member" = "#4fc1ff"
+"enumMember" = "#4fc1ff"
+"escape" = "$cyan"
+"exception" = "$red"
+"field" = "$red"
+"float" = "$yellow"
+"function" = "#dcdcaa"
+"function.method" = "#dcdcaa"
+"include" = "$magenta"
+"interface" = "#4ec9b0"
+"keyword" = "$magenta"
+"method" = "#dcdcaa"
+"punctuation.bracket" = "$blue"
+"punctuation.delimiter" = "#050A30"
+"repeat" = "$green"
+"struct" = "#4ec9b0"
+"structure" = "#4ec9b0"
+"symbol" = "$yellow"
+"type" = "#4ec9b0"
+"type.builtin" = "$cyan"
+"typeAlias" = "#4ec9b0"
+"variable.other.member" = "$red"
+
+"boolean" = "#569cd6"
+"constant" = "#d4d4d4"
+"number" = "#b5cea8"
+"property" = "#9cdcfe"
+"selfKeyword" = "#569cd6"
+"string" = "#aa86f0"
+"variable" = "#8bdcfe"
+
+[theme.ui]
+
+##Editor config
+
+"editor.background" = "#000000"
+"editor.caret" = "#050A30 "
+"editor.current_line" = "#32353b"
+"editor.dim" = "$grey"
+"editor.focus" = "#ddddee"
+"editor.foreground" = "#d4d4d4"
+"editor.link" = "$cyan"
+"editor.selection" = "#264f78"
+
+## Error config
+
+"error_lens.error.background" = "$red"
+"error_lens.error.foreground" = "$black"
+"error_lens.other.background" = "$black"
+"error_lens.other.foreground" = "#9500fe"
+"error_lens.warning.background" = "#black"
+"error_lens.warning.foreground" = "$yellow"
+
+## Panel config 
+
+"palette.background" = "#2f3136"
+"palette.current" = "#36393f"
+"panel.background" = "#202225"
+"panel.current" = "#2f3136"
+"panel.hovered" = "#2f3136"
+
+"source_control.added" = "#50A14F32"
+"source_control.modified" = "#0184BC32"
+"source_control.removed" = "#FF526632"
+
+## Status config
+
+"status.background" = "#050A30"
+"status.modal.terminal" = "$purple"
+"status.modal.visual" = "$yellow"
+"status.modal.insert" = "$green"
+"status.modal.normal" = "$red"
+
+## Terminal config
+
+"terminal.background" = "$black"
+"terminal.black" = "$black"
+"terminal.blue" = "$blue"
+"terminal.bright_black" = "#545862"
+"terminal.bright_blue" = "$blue"
+"terminal.bright_cyan" = "$cyan"
+"terminal.bright_green" = "$green"
+"terminal.bright_magenta" = "$magenta"
+"terminal.bright_red" = "$red"
+"terminal.bright_white" = "#C8CCD4"
+"terminal.bright_yellow" = "$yellow"
+"terminal.cursor" = "$white"
+"terminal.cyan" = "$cyan"
+"terminal.foreground" = "$white"
+"terminal.green" = "$green"
+"terminal.magenta" = "$magenta"
+"terminal.red" = "$red"
+"terminal.white" = "$white"
+"terminal.yellow" = "$yellow"
+
+## Other configs
+
+"activity.background" = "$black"
+"activity.current" = "#050A30 "
+
+"completion.background" = "#2f3136"
+"completion.current" = "#292b2f"
+
+"hover.background" = "#2f3136"
+
+"inlay_hint.background" = "#528bFF88"
+"inlay_hint.foreground" = "#ABB2BF"
+
+"lapce.active_tab" = "#2f3136"
+"lapce.border" = "#202225"
+"lapce.dropdown_shadow" = "$black"
+"lapce.error" = "$red"
+"lapce.inactive_tab" = "$grey"
+"lapce.scroll_bar" = "$grey"
+"lapce.warn" = "$yellow"
+
+"markdown.blockquote" = "#898989"
+
+

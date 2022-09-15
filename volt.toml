@@ -1,0 +1,7 @@
+name = "Amolapce"
+version = "0.0.5"
+display-name = "Amolapce"
+author = "Ereshkigal"
+description = "True dark theme for lapce"
+repository = "Ereshkigal/Amolapce"
+themes = ["Amolapce.toml"]
