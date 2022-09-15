@@ -3,5 +3,5 @@ version = "0.0.5"
 display-name = "Amolapce"
 author = "Ereshkigal"
 description = "True dark theme for lapce"
-repository = "Ereshkigal/Amolapce"
+repository = "Ereshkigal01/Amolapce"
 themes = ["Amolapce.toml"]
